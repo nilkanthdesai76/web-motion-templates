@@ -1,0 +1,19 @@
+{
+  "name": "web-motion-templates",
+  "version": "1.0.0",
+  "description": "Copy-paste production UI animations & micro-interactions built with React, Tailwind CSS, and Framer Motion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "framer-motion",
+    "tailwind",
+    "react",
+    "nextjs",
+    "animations",
+    "micro-interactions"
+  ],
+  "author": "Nilkanth Desai",
+  "license": "MIT"
+}
